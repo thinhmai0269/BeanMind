@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524341271990",
+    "project_id": "beanmind-10208",
+    "storage_bucket": "beanmind-10208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524341271990:android:f5ec5e73df4a63ca687517",
+        "android_client_info": {
+          "package_name": "com.beanmind.beanmind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcntnjAiXp-9xV0LFuagxXF7TXWgZFXjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
